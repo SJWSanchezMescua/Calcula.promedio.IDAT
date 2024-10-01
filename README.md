@@ -1,4 +1,4 @@
-#Calculadora de promedios del instituto IDAT#
+#Calculadora de promedios del instituto IDAT
 
 # Demo
 Calcula mediante codigo el promedio final lanzando el resultado en consola
